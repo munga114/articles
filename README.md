@@ -1,4 +1,4 @@
-## Pendo News
+## Articles app
 
 ## Author
 Abishag Maitha

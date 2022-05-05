@@ -44,8 +44,8 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
 ## Author's Information
-Email: abishag.maitha@student.moringaschool.com
-Contact: 0719816825
+Email: mungai.mbugua@moringaschool.com
+Contact: 0797950827
 
 ## Live Link
 pendonews.herokuapp.com 

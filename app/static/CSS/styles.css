@@ -1,0 +1,27 @@
+.content{
+   background-color:honeydew;
+}
+
+.navbar{
+    color: white;
+}
+.readmore{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+}
+.view_articles{
+    text-decoration: none;
+    color: white;
+    background-color: red;
+    /* animation: blinker 3s linear infinite; */
+}
+/* @keyframes blinker {
+    50% {
+    opacity: 0;
+    }
+} */
+.image{
+    width: 30%;
+    
+}

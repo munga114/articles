@@ -8,12 +8,12 @@
 .readmore{
     text-decoration: none;
     color: white;
-    background-color: red;
+    background-color: blue;
 }
 .view_articles{
     text-decoration: none;
     color: white;
-    background-color: red;
+    background-color: blue;
     /* animation: blinker 3s linear infinite; */
 }
 /* @keyframes blinker {

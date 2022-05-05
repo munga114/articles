@@ -7,7 +7,7 @@ Mungai Mbugua
 This is a news website which keeps the users updated on the current news.
 
 ## Project setup instructions
-* Fork the Repo from my github account: https://github.com/Abishag-Maitha/Pendo-News
+* Fork the Repo from my github account: 
 * Clone the all files to your local environment
 * Install flask and virtual environment. Activate the virtual envorinment
 *Run the application on the terminal by typing python3 manage.py
@@ -25,7 +25,7 @@ This is a news website which keeps the users updated on the current news.
 ## MIT LICENSE
 MIT License
 
-copyright (c) @2022 [Abishag Maitha]
+copyright (c) @2022 [Mungai Mbugua]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

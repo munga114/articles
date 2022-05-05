@@ -1,7 +1,7 @@
 ## Articles app
 
 ## Author
-Abishag Maitha
+Mungai Mbugua
 
 ## Description
 This is a news website which keeps the users updated on the current news. Data is consumed from the NEWS-API
